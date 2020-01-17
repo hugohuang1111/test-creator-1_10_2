@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'test-creator-1_10_2' target in the 'test-creator-1_10_2' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
