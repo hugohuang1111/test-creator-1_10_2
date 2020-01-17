@@ -19,14 +19,14 @@
     "portrait": false,
     "upsideDown": false
   },
-  "packageName": "org.cocos2d.test-creator-1_10_2",
+  "packageName": "org.cocos2d.creatorTest",
   "privateKey": "",
   "qqplay": {
     "REMOTE_SERVER_ROOT": "",
     "orientation": "portrait"
   },
   "renderMode": "0",
-  "startScene": "",
+  "startScene": "55192f4a-d51f-4c7b-a052-2a201c267712",
   "title": "test-creator-1_10_2",
   "webOrientation": "auto",
   "wechatgame": {
